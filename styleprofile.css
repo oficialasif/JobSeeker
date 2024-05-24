@@ -1,0 +1,13 @@
+.container {
+    margin-top: 50px;
+}
+
+.profile-info {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.profile-info p {
+    margin-bottom: 10px;
+}
