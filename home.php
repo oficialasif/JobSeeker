@@ -278,22 +278,22 @@ session_start(); // Start the session
               <div class="location-links">
                 <a
                   class="btn-round-pill btn-round-pill-fixed"
-                  href="jobs-dhaka.html"
+                  href="find-jobs.php"
                   >Dhaka</a
                 >
                 <a
                   class="btn-round-pill btn-round-pill-fixed"
-                  href="jobs-rajshahi.html"
+                  href="find-jobs.php"
                   >Rajshahi</a
                 >
                 <a
                   class="btn-round-pill btn-round-pill-fixed"
-                  href="jobs-sylhet.html"
+                  href="find-jobs.php"
                   >Sylhet</a
                 >
                 <a
                   class="btn-round-pill btn-round-pill-fixed"
-                  href="jobs-remote.html"
+                  href="find-jobs.php"
                   >Remote</a
                 >
               </div>
@@ -496,7 +496,7 @@ session_start(); // Start the session
 
         <ul class="nav navbar-nav">
           <li>
-            <a target="_blank" href="https://www.instagram.com">Blog</a>
+            <a target="_blank" href="https://www.blog/bfkm.com">Blog</a>
           </li>
           <li>
             <a href="about.html">About</a>
