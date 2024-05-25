@@ -496,7 +496,7 @@ session_start(); // Start the session
 
         <ul class="nav navbar-nav">
           <li>
-            <a target="_blank" href="https://www.instagram.com/oficial_asif_?igsh=MW82NHY2a2JxMjJpMw==">Blog</a>
+            <a target="_blank" href="https://www.instagram.com">Blog</a>
           </li>
           <li>
             <a href="about.html">About</a>
